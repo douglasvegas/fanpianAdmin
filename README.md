@@ -29,3 +29,14 @@
 - componentDidMount和componentWillUpdate使用可能出现死循环，慎重。
 - 手动删除token、返回登录无法进入界面、流程控制问题。用登录成功的回调函数修改state？
 - react-router4的钩子函数
+
+## 前台项目
+[fanpian](https://github.com/douglasvegas/fanpian)
+## 后台项目
+[fanpian](https://github.com/douglasvegas/fanpianAdmin)
+## 后端项目
+[fanpianBackend](https://github.com/douglasvegas/fanpianBackend)
+## 前台线上预览
+[Record 地址](http://www.douglasvegas.com/)
+## 后台线上预览
+[Record后台地址](http://admin.douglasvegas.com/)
