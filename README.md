@@ -9,7 +9,16 @@
 
 ## 界面
 ### 文章列表
-![](https://github.com/douglasvegas/fanpianAdmin/blob/master/screenshots/%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8.png)
+![](https://github.com/douglasvegas/fanpianAdmin/blob/master/screenshots/文章列表.png)
+
+### 文章模块
+![](https://github.com/douglasvegas/fanpianAdmin/blob/master/screenshots/文章模块.png)
+
+### 文章统计
+![](https://github.com/douglasvegas/fanpianAdmin/blob/master/screenshots/文章统计.png)
+
+### 用户列表
+![](https://github.com/douglasvegas/fanpianAdmin/blob/master/screenshots/用户列表.png)
 
 
 ### ISSUES
