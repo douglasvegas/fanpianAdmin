@@ -1,0 +1,1 @@
+exports.API = 'http://www.douglasvegas.com/api/';

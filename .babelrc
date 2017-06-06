@@ -1,0 +1,12 @@
+{
+  "presets": [
+    ["es2015", {"modules": false}],
+    // webpack 现在已经支持原生的 import 语句了, 并且将其运用在 tree-shaking 特性上
+
+    "react"
+    // 转译 React 组件为 JavaScript 代码
+  ],
+  "plugins":[
+       ["import", { "libraryName": "antd", "style": "css" }]
+  ]
+}
