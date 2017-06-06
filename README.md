@@ -30,13 +30,12 @@
 - 手动删除token、返回登录无法进入界面、流程控制问题。用登录成功的回调函数修改state？
 - react-router4的钩子函数
 
-## 前台项目
-[fanpian](https://github.com/douglasvegas/fanpian)
-## 后台项目
-[fanpian](https://github.com/douglasvegas/fanpianAdmin)
-## 后端项目
+## 项目地址
+ * 前台 [fanpian](https://github.com/douglasvegas/fanpian)
+ * 后台 [fanpianAdmin](https://github.com/douglasvegas/fanpianAdmin)
+ * 后端项目
 [fanpianBackend](https://github.com/douglasvegas/fanpianBackend)
-## 前台线上预览
-[Record 地址](http://www.douglasvegas.com/)
-## 后台线上预览
-[Record后台地址](http://admin.douglasvegas.com/)
+
+## 线上预览
+* [前台](http://www.douglasvegas.com/)
+* [后台](http://admin.douglasvegas.com/)
