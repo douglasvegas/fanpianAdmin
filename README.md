@@ -22,9 +22,10 @@
 
 
 ### ISSUES
-- 建议使用可控表单
+- 建议使用可控表单
  > 符合React的数据流，单向数据流，从state流向render输出的结果。
  数据存贮在state中，便于使用。便于对数据进行处理
 - webpack publicPath影响打包结果的问题
 - componentDidMount和componentWillUpdate使用可能出现死循环，慎重。
 - 手动删除token、返回登录无法进入界面、流程控制问题。用登录成功的回调函数修改state？
+- react-router4的钩子函数
